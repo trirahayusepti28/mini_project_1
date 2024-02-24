@@ -1,7 +1,7 @@
 # mini_project_1
 Tugas mini project 1, tema Sistem Peminjaman Barang
 
-Nama: Tri Rahayu Septiyani
+Nama: Tri Rahayu Septiyani,
 NIM: 2309116004
 
 # Penjelasan Singkat Program
@@ -10,7 +10,8 @@ Program ini adalah sebuah sistem peminjaman barang sederhana yang diimplementasi
 # CRUD
 ## Create Barang
 <img width="228" alt="Screenshot 2024-02-24 120118" src="https://github.com/trirahayusepti28/mini_project_1/assets/144746289/31ebdd1e-f868-4ca1-aa0c-814858e51053">
-
+Disini program meminta user untuk memasukkan angka 1 sampai 6, saat user menginput angka 1 maka program akan meminta user untuk memasukkan Id barang sampai nama pemilik barang tersebut, sesuai atribut yang telah disediakan.
+  
 ## Read Barang
 <img width="625" alt="Screenshot 2024-02-24 120219" src="https://github.com/trirahayusepti28/mini_project_1/assets/144746289/b651f481-f4af-4d14-a713-e6608ee5512e">
 
