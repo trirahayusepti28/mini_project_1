@@ -1,4 +1,4 @@
-# mini_project_1
+# Mini_project_1
 Tugas mini project 1, tema Sistem Peminjaman Barang
 
 Nama: Tri Rahayu Septiyani,
