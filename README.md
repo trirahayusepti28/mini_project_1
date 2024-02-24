@@ -10,6 +10,7 @@ Program ini adalah sebuah sistem peminjaman barang sederhana yang diimplementasi
 # CRUD
 ## Create Barang
 <img width="228" alt="Screenshot 2024-02-24 120118" src="https://github.com/trirahayusepti28/mini_project_1/assets/144746289/31ebdd1e-f868-4ca1-aa0c-814858e51053">
+
 Disini program meminta user untuk memasukkan angka 1 sampai 6, saat user menginput angka 1 maka program akan meminta user untuk memasukkan Id barang sampai nama pemilik barang tersebut, sesuai atribut yang telah disediakan.
   
 ## Read Barang
