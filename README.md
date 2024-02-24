@@ -15,6 +15,7 @@ Disini program meminta user untuk memasukkan angka 1 sampai 6, saat user menginp
   
 ## Read Barang
 <img width="625" alt="Screenshot 2024-02-24 120219" src="https://github.com/trirahayusepti28/mini_project_1/assets/144746289/b651f481-f4af-4d14-a713-e6608ee5512e">
+Saat User memasukkan angka kedua maka program akan menampilkan daftar barang yang tersedia, yang bisa dipinjam.
 
 ## Search Barang
 <img width="634" alt="Screenshot 2024-02-24 120505" src="https://github.com/trirahayusepti28/mini_project_1/assets/144746289/702d58e8-d599-4fa0-93f1-cc0145a87cd2">
